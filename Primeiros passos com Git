@@ -1,0 +1,8 @@
+Primeiros passos com Git
+
+Primeiro pode-se criar a pasta que servira de base para o projeto e será usada como repositório ou com o próprio comamndo git seguindo do nome do repositório exemplo; 
+git init "nome_repositório".
+
+Para visualizar a pasta oculta de inicialização do repositorio git (Pasta onde fica todo o histórico de utilização deste repositório):
+ls -al
+
