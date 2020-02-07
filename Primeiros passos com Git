@@ -6,3 +6,8 @@ git init "nome_repositório".
 Para visualizar a pasta oculta de inicialização do repositorio git (Pasta onde fica todo o histórico de utilização deste repositório):
 ls -al
 
+Verificando o status do Branch:
+git status
+
+Verificando os commit que foram feitos:
+git log
