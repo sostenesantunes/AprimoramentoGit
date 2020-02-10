@@ -23,3 +23,8 @@ Enviando os arquivos para o repositório GitHub
 Configurando o Editor de Texto de sua preferencia para o Git.
 -  git config --global core.editor <nome_editor>
 
+Git Pull 
+Baixa as alterações do repositório remoto(GitHub).
+
+Shift + Q 
+Saindo da Tela de Log do Git.
