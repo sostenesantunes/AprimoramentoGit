@@ -50,3 +50,14 @@ caso tenha enviado para GitHub alguem pode ter feito um Pull Request do arquivos
 
 Git Reset HEAD~1 
 Volta para o último commit executado
+
+Git Reset HEAD~1 --HARD
+Além de volta o commit anterior o HARD apaga todo o histórico, o registro do commit.
+
+CONFLITOS NO GIT
+
+Como resolver os conflitos no Git?
+Primeiro; geralmente acontece conflitos quando há mais de uma pessoa,  colaborando, contribuindo na inserção dos dados, Segundo; devemos compararmos os arquivos que estão com divergências e arruma-los conforme a demanda.
+
+
+ 
