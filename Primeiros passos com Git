@@ -44,5 +44,9 @@ Desfaz todos as mudanças feitas em todos os arquivos do Branch, lembrando que i
 Git checkout HEAD -- (NOME DO AQUIVO)
 Descarta a última mudança mesmo depois de ter add.
 
-Git Revert
-Com o comando e possível reverter o último commit o último commit feito
+Git Revert (Artefado do código do commit)
+Com o comando é possível reverter o último commit executado, desde que não tenha feito um Git Push porque,
+caso tenha enviado para GitHub alguem pode ter feito um Pull Request do arquivos e ficará com arquivos diferentes do que está trabalhando.
+
+Git Reset HEAD~1 
+Volta para o último commit executado
