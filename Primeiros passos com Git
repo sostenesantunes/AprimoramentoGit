@@ -28,3 +28,19 @@ Baixa as alterações do repositório remoto(GitHub).
 
 Shift + Q 
 Saindo da Tela de Log do Git.
+
+Git checkout a885b9992f34c7f(Parte do registro do commit para fazer a busca)
+Retornando no commit para verificar artefato do código no momento daquele commit.
+
+git checkout Master
+Retorna no estágio original do Branch (Último commit registrado).
+
+Git checkout -- (nome do aquivo)
+Para descartar alguma mudança feito nom arquivo antes de ser add.
+
+Git checkout -- .
+Desfaz todos as mudanças feitas em todos os arquivos do Branch, lembrando que isso antes de ser commitado.
+
+Git checkout HEAD -- (NOME DO AQUIVO)
+Descarta a última mudança mesmo depois de ter add.
+
