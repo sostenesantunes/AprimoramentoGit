@@ -1,5 +1,11 @@
 Primeiros passos com Git
 
+Inicia-se fazendo a instalação do Git, que é o sistemas que faz o controle de versionamento..
+
+Pós instalado do Git, devemos configurar o agente Git para fazer a comunicação com o Servidor que pode ser o GitHub, GitLab ou outro, comunicação esta que é feito por chave SSH. 
+
+Primeiro comando para que devemos lembrar e fazer uso e  git help ou git help + comando desejado para ter as  
+
 Primeiro pode-se criar a pasta que servira de base para o projeto e será usada como repositório ou com o próprio comamndo git seguindo do nome do repositório exemplo; 
 git init "nome_repositório".
 
@@ -11,3 +17,9 @@ git status
 
 Verificando os commit que foram feitos:
 git log
+
+Enviando os arquivos para o repositório GitHub
+
+Configurando o Editor de Texto de sua preferencia para o Git.
+-  git config --global core.editor <nome_editor>
+
