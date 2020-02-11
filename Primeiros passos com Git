@@ -59,5 +59,24 @@ CONFLITOS NO GIT
 Como resolver os conflitos no Git?
 Primeiro; geralmente acontece conflitos quando há mais de uma pessoa,  colaborando, contribuindo na inserção dos dados, Segundo; devemos compararmos os arquivos que estão com divergências e arruma-los conforme a demanda.
 
+Branching 
+É uma lista de commits e representa uma ramificação no repositório.
 
+Branch Master  é a padrão.
+
+Git Branch (Apresenta qual branch é usada).
+
+Criando uma nova Branch:
+git branch <nome_branch>
+
+Deletando uma branch:
+git branch -d <nome_branch>
+
+Mudando de Branch 
+Quando solicitamos a mudamos de branch, a branch chamada irá carregar os commits da branch de origem mas os seus commits que forem criados. 
+Git checkout <nome_branch>
+
+
+
+ 
  
