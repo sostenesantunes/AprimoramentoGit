@@ -1,2 +1,2 @@
-Testando nova Branch
-
+MERGE
+Merge é quando fazemos uma requisição do(s) Branch que estão em paralelo com nossa linha de produção e requisitamos para que nivele as atualizações para um Branch determinado.
