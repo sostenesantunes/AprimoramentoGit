@@ -1,5 +1,12 @@
 Primeiros passos com Git
 
+GIT WORKFLOW
+
+Principais atividades do Git:
+	- Editar
+	- Commitar
+	- Sincronizar com repositório remoto
+
 Inicia-se fazendo a instalação do Git, que é o sistemas que faz o controle de versionamento..
 
 Pós instalado do Git, devemos configurar o agente Git para fazer a comunicação com o Servidor que pode ser o GitHub, GitLab ou outro, comunicação esta que é feito por chave SSH. 
