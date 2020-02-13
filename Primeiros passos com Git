@@ -76,6 +76,10 @@ Mudando de Branch
 Quando solicitamos a mudamos de branch, a branch chamada irá carregar os commits da branch de origem mas os seus commits que forem criados. 
 Git checkout <nome_branch>
 
+GIT Merge
+
+
+GIT Rebase
 
 
  
